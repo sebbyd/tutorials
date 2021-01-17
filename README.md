@@ -1,2 +1,3 @@
 # DSBA
-My projects from the GoodLearning/UTAustin course
+
+Various sample projects to learn data analytics techniques using python
